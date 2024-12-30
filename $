@@ -1,0 +1,33 @@
+pick 296add1 avatars
+s 0011c94 avatars
+
+# Rebasage de dd2083b..0011c94 sur dd2083b (2 commandes)
+#
+# Commandes :
+#  p, pick <commit> = utiliser le commit
+#  r, reword <commit> = utiliser le commit, mais reformuler son message
+#  e, edit <commit> = utiliser le commit, mais s'arrêter pour le modifier
+#  s, squash <commit> = utiliser le commit, mais le fusionner avec le précédent
+#  f, fixup [-C | -c] <commit> = comme "squash", mais en ne gardant que le message
+#                     du commit précédent, à moins que -C ne soit utilisé, auquel cas, conserver
+#                     ne conserver que le message de ce commit ; -c est identique à -C mais ouvre
+#                     un éditeur
+#  x, exec <commit> = lancer la commande (reste de la ligne) dans un shell
+#  b, break = s'arrêter ici (on peut continuer ensuite avec 'git rebase --continue')
+#  d, drop <commit> = supprimer le commit
+#  l, label <label> = étiqueter la HEAD courante avec un nom
+#  t, reset <label> = réinitialiser HEAD à label
+#  m, merge [-C <commit> | -c <commit>] <label> [# <uniligne>]
+#          créer un commit de fusion utilisant le message de fusion original
+#          (ou l'uniligne, si aucun commit de fusion n'a été spécifié).
+#          Utilisez -c <commit> pour reformuler le message de validation.
+#  u, update-ref <réf> = suivre un espace réservé pour la <réf> à mettre à jour
+#                        à cette position dans les nouveaux commits. La <réf> est
+#                        mise à jour à la fin du rebasage
+#
+# Vous pouvez réordonner ces lignes ; elles sont exécutées de haut en bas.
+#
+# Si vous éliminez une ligne ici, LE COMMIT CORRESPONDANT SERA PERDU.
+#
+# Cependant, si vous effacez tout, le rebasage sera annulé.
+#
