@@ -1,0 +1,90 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 2
+        },
+        "PathAndObjects.tsx": {
+            "scaleInDock": 1
+        },
+        "Slates v.2 [32x32px orthogonal tileset by Ivan Voirol].tsx": {
+            "scaleInDock": 1
+        },
+        "Tiny-Islands-by-Majadroid.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Untitled.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "barrels.tsx": {
+            "scaleInDock": 1
+        },
+        "map2.tmx": {
+            "expandedGroupLayers": [
+                113
+            ],
+            "scale": 1.5,
+            "selectedLayer": 93,
+            "viewCenter": {
+                "x": 639.6666666666666,
+                "y": 663.6666666666666
+            }
+        },
+        "test.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset_town_multi_v002.tsx": {
+            "scaleInDock": 1
+        },
+        "tiny-island.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tortuga2.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 390.83333333333326,
+                "y": 162.16666666666669
+            }
+        }
+    },
+    "last.imagePath": "/home/shionn/projects/whisp/tiny-islands-by-majadroid/Tiny-Islands-by-Majadroid",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "tortuga2.tmx",
+        "tiny-island.tsx",
+        "map2.tmx"
+    ],
+    "project": "tortuga2.tiled-project",
+    "recentFiles": [
+        "tortuga2.tmx",
+        "tiny-island.tsx",
+        "map2.tmx",
+        "test.tsx",
+        "Tiny-Islands-by-Majadroid.tsx",
+        "Untitled.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
